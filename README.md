@@ -1,9 +1,8 @@
 
-<p id="gdcalert1" ><img src="https://git.generalassemb.ly/zstern/submissions/blob/master/capstone/presentation/texas_pothole.jpg"
-     /></p>
+<img src="https://github.com/zstern/CNN_PCI/blob/master/presentation/texas_pothole.jpg">
 
 
-![alt_text](images/Copy-of0.jpg "image_tooltip")
+
 
 
 _Pothole the size of Texas. Credit: Daniel Lobo (https://www.flickr.com/photos/daquellamanera/3038436394)_
@@ -48,7 +47,7 @@ Two examples of the street view photos:
 
 (Google street view photo corresponding to a PCI of "poor")
 
-<p id="gdcalert2" > <img src="https://git.generalassemb.ly/zstern/submissions/blob/master/capstone/presentation/24443725_poor.jpg"
+<p id="gdcalert2" > <img src="https://github.com/zstern/CNN_PCI/blob/master/presentation/24443725_poor.jpg"
     </p>
 
 
@@ -57,7 +56,7 @@ Two examples of the street view photos:
 
 (Google street view photo corresponding to a PCI of "excellent")
 
-<p id="gdcalert2" > <img src="https://git.generalassemb.ly/zstern/submissions/blob/master/capstone/presentation/24128720_ex.jpg"
+<p id="gdcalert2" > <img src="https://github.com/zstern/CNN_PCI/blob/master/presentation/24128720_ex.jpg"
     </p>
 
 
@@ -91,7 +90,7 @@ Increase contrast in a photo can be done 'globally', that is, over the entire ph
 
 
 
-<p id="gdcalert2" > <img src="https://git.generalassemb.ly/zstern/submissions/blob/master/capstone/presentation/C_24443725_p.jpg"
+<p id="gdcalert2" > <img src="https://github.com/zstern/CNN_PCI/blob/master/presentation/C_24443725_p.jpg"
     </p>
 
 
@@ -100,7 +99,7 @@ Increase contrast in a photo can be done 'globally', that is, over the entire ph
 
 
 
-<p id="gdcalert2" > <img src="https://git.generalassemb.ly/zstern/submissions/blob/master/capstone/presentation/C_24128720_e.jpg"
+<p id="gdcalert2" > <img src="https://github.com/zstern/CNN_PCI/blob/master/presentation/C_24128720_e.jpg"
     </p>
 
 
@@ -114,7 +113,7 @@ Google street view photos, while convenient for the purposes of this project, pr
 
 
 
-<p id="gdcalert2" > <img src="https://git.generalassemb.ly/zstern/submissions/blob/master/capstone/presentation/24290072.jpg"
+<p id="gdcalert2" > <img src="https://github.com/zstern/CNN_PCI/blob/master/presentation/24290072.jpg"
     </p>
 
 
