@@ -25,7 +25,7 @@ There are several measures of road quality but the one that this project focuses
 *   The PCI is a subjective method of evaluation based on inspection and observation. 
 *   A PCI rating is developed by having experienced public works officials drive the road network and evaluate its condition in a systematic way. 
 
-Since the PCI is essentially a visual inspection of the road, that does not involve subsurface investigation or specialize machinery,  I theorized that it would be possible to automate the PCI  inspection process using computer vision.  
+Since the PCI is essentially a visual inspection of the road, that does not involve subsurface investigation or specialized machinery,  I theorized that it would be possible to automate the PCI  inspection process using computer vision.  
 
 **<span style="text-decoration:underline;">Gathering the Data:</span>**
 
